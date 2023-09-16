@@ -14,7 +14,7 @@
 
  <!-- Block quote -->
  ~~Strike through~~
->This is a block quote
+>This is a block quote Block cont
 
 <!-- Links -->
  [Mose Msukwa Blog](https://mozesi.tech/ "Moses Msukwa")
@@ -23,13 +23,50 @@
 * laravel
 * Android -Kotlin
 
+<!-- Un ordered list -->
+* laravel
+* Android -Kotlin
+    * lifecycle
+    * State
+<!--  ordered list -->
+1. laravel
+1. Android -Kotlin
+1. java
 
-Lists
-Emphasis
-Links
-Block of Code
-Images
-Blockquotes
-Horizontal
-Tables
-Tasks
+<!-- inline code block -->
+` <p> this is a paragraphe</p>`
+
+<!-- Image-->
+![Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github -->
+
+```
+npm install
+npm start
+```
+``` python
+def sum(num1, num2):
+    return num2 + num1
+```
+
+``` dart
+int sum(num1, num2){
+    return num2 + num1;
+}
+```
+``` dart
+int sum(num1, num2) => num2 + num1;
+
+```
+<!--Table -->
+|Name | EMail|
+|-----|---------------------|
+|Moses|msukwamose1@gmail.com|
+|Moses|msukwamose1@gmail.com|
+
+* [*] Task One
+* [*] Task two
+* [] Task three
+
+
