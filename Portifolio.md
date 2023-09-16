@@ -65,8 +65,8 @@ int sum(num1, num2) => num2 + num1;
 |Moses|msukwamose1@gmail.com|
 |Moses|msukwamose1@gmail.com|
 
-* [ * ] Task One
-* [ * ] Task two
+* [x] Task One
+* [x] Task two
 * [] Task three
 
 
