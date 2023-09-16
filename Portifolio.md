@@ -67,6 +67,6 @@ int sum(num1, num2) => num2 + num1;
 
 * [x] Task One
 * [x] Task two
-* [] Task three
+* [ ]  Task three
 
 
